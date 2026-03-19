@@ -1,5 +1,7 @@
 ***Customer Behavior Analysis Project***
-
+<p align="center">
+![Dashboard]<img width="1920" height="1140" alt="Snap_dashboard" src="https://github.com/user-attachments/assets/2ec88572-15ef-488e-a822-88431da36af9" />
+</p>
 
 **Project Overview**
 
